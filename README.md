@@ -1,5 +1,5 @@
 # 💫 About Me:
-AWS Cloud Solutions Architect ☁️, cloud-native and serverless enthusiast 📡, http://cloudybarz.com blog owner 👨‍💻, heavy sound lover 🤘.<br>
+AWS Cloud Solutions Architect ☁️, cloud-native and serverless enthusiast 📡, https://cloudybarz.com blog owner 👨‍💻, heavy sound lover 🤘.<br>
 
 
 ## 🌐 Socials:
