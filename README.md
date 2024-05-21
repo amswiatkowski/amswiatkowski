@@ -5,10 +5,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create Windows EC2 with AWS CDK and Python](https://cloudybarz.com/how-to-create-windows-ec2-with-aws-cdk-and-python/)
 - [AWS Community Day Poland 2024 – my impressions](https://cloudybarz.com/aws-community-day-poland-2024-my-impressions/)
 - [Building latency-based routing solution with Amazon Route 53](https://cloudybarz.com/building-latency-based-routing-solution-with-amazon-route-53/)
 - [Decrease cost and boost performance by moving to Graviton](https://cloudybarz.com/decrease-cost-and-boost-performance-by-moving-to-graviton/)
-- [Converting infrastructure to AWS CloudFormation and AWS CDK](https://cloudybarz.com/converting-infrastructure-to-aws-cloudformation-and-aws-cdk/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
